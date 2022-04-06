@@ -1,0 +1,1 @@
+write web: gunicorn app:app
